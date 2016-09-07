@@ -1,5 +1,8 @@
 {
   "name": "rereddit-dev",
+    "scripts": {
+    "start": "node app.js"
+  },
   "version": "0.0.0",
   "dependencies": {
     "angular": "^1.5.5",
@@ -12,6 +15,6 @@
     "jsonwebtoken": "^6.2.0",
     "mongoose": "^4.4.17",
     "passport": "^0.3.2",
-    "passport-local": "^1.0.0",
+    "passport-local": "^1.0.0"
   }
 }
